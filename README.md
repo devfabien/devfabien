@@ -37,26 +37,15 @@
 
 
 ###
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/devfabien/devfabien/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/devfabien/devfabien/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/devfabien/devfabien/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
-
-###
 <h3>GitHub Stats </h3>
 
-[![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&?count_private=true&theme=radical)]
+![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&?count_private=true&theme=gruvbox&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+
+###
+<h3> Github gist</h3>
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devfabien)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **devfabien/devfabien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
