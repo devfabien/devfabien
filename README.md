@@ -1,6 +1,6 @@
 ### Hi there 👋,
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&width=900&lines=MEET+Developer+Fabien+Ishimwe(devfabien);)
-<h3>🛠 Language and tools</h3>
+<h3>🛠 Language, tools and tech stacks</h3>
 
 ###
 
@@ -25,6 +25,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 </div>
