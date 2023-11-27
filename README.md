@@ -1,5 +1,5 @@
 ### Hi there 👋,
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black&size=35&width=900&lines=MEET+Developer+Fabien+Ishimwe(devfabien);)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&width=900&lines=MEET+Developer+Fabien+Ishimwe(devfabien);)
 <h3>🛠 Language and tools</h3>
 
 ###
