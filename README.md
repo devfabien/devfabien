@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -35,11 +35,6 @@
 
 <h3 align="left">   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=devfabien&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
@@ -59,6 +54,9 @@
 </picture>
 
 ###
+<h3>GitHub Stats </h3>
+
+[![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&?count_private=true&theme=radical)]
 
 <!--
 **devfabien/devfabien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
