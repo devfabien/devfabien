@@ -10,12 +10,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Next.js](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Expo app](https://img.shields.io/badge/-Expo_app-05122A?style=flat&logo=expo)&nbsp;
 ![React native](https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react)&nbsp;
 ![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=A22160)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=563D7C)&nbsp;
