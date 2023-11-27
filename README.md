@@ -37,7 +37,7 @@
 ###
 <h3>My GitHub Stats </h3>
 
-![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&?count_private=true&theme=gruvbox&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&?count_private=true&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
 
 ###
 
