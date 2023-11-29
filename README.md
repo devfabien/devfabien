@@ -37,16 +37,13 @@
 ###
 <h3>My GitHub Stats </h3>
 
-![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&?count_private=true&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&include_all_commits=true&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&&rank_icon=github)
 
 ###
 
-
 ![Profile views](https://visitcount.itsvg.in/api?id=devfabien&views&icon=0&color=0)
-<!-- <h3> Github gist</h3>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devfabien)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **devfabien/devfabien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
