@@ -18,6 +18,7 @@
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=A22160)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=563D7C)&nbsp;
 ![Eslint](https://img.shields.io/badge/-Eslint-05122A?style=flat&logo=eslint&logoColor=563D7C)&nbsp;
 ![Xampp](https://img.shields.io/badge/-xampp-05122A?style=flat&logo=xampp)&nbsp;
@@ -39,8 +40,8 @@
 
 ![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&include_all_commits=true&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&&rank_icon=github)
 
-###
 
+###
 ![Profile views](https://visitcount.itsvg.in/api?id=devfabien&views&icon=0&color=0)
 
 
