@@ -40,6 +40,11 @@
 
 ![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&include_all_commits=true&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&&rank_icon=github)
 
+###
+<h3>Progress graph</h3>
+
+![devfabien's GitHub progress](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfabien&theme=algolia&hide_border=true)
+
 
 ###
 ![Profile views](https://visitcount.itsvg.in/api?id=devfabien&views&icon=0&color=0)
