@@ -38,7 +38,7 @@
 ###
 <h3>My GitHub Stats </h3>
 
-![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&include_all_commits=true&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&&rank_icon=github)
+![devfabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabien&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&&rank_icon=github)
 
 ###
 <h3>Progress graph</h3>
