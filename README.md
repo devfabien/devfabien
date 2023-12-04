@@ -15,7 +15,6 @@
 ![Expo app](https://img.shields.io/badge/-Expo_app-05122A?style=flat&logo=expo)&nbsp;
 ![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=A22160)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
