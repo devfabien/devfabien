@@ -47,8 +47,7 @@
 ###
 <h3>My GitHub streaks</h3>
 
-[![devfabien's GitHub Streak](https://streak-stats.demolab.com/?user=devfabien&theme=algolia&hide_border=true)](https://git.io/streak-stats)
-
+![devfabien's GitHub Streak](https://streak-stats.demolab.com/?user=devfabien&theme=algolia&hide_border=true)
 ###
 ![Profile views](https://visitcount.itsvg.in/api?id=devfabien&views&icon=0&color=0)
 
