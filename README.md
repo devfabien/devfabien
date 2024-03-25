@@ -13,6 +13,7 @@
 ![Next.js](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Expo app](https://img.shields.io/badge/-Expo_app-05122A?style=flat&logo=expo)&nbsp;
+![Jestjs](https://img.shields.io/badge/-Jestjs-05122A?style=flat&logo=jest&logoColor=red)&nbsp;
 ![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
