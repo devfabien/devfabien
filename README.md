@@ -23,6 +23,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=563D7C)&nbsp;
 ![Eslint](https://img.shields.io/badge/-Eslint-05122A?style=flat&logo=eslint&logoColor=563D7C)&nbsp;
 ![Xampp](https://img.shields.io/badge/-xampp-05122A?style=flat&logo=xampp)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
