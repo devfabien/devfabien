@@ -22,7 +22,7 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=563D7C)&nbsp;
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=zustand&logoColor=563D7C)&nbsp;
 ![Eslint](https://img.shields.io/badge/-Eslint-05122A?style=flat&logo=eslint&logoColor=563D7C)&nbsp;
 ![Xampp](https://img.shields.io/badge/-xampp-05122A?style=flat&logo=xampp)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
