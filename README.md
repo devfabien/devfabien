@@ -10,14 +10,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Next.js](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)
 ![Expo app](https://img.shields.io/badge/-Expo_app-05122A?style=flat&logo=expo)&nbsp;
 ![Jestjs](https://img.shields.io/badge/-Jestjs-05122A?style=flat&logo=jest&logoColor=red)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;
 ![Testing library](https://img.shields.io/badge/-Testing_library-05122A?style=flat&logo=testinglibrary)&nbsp;
-![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
@@ -26,10 +26,10 @@
 ![Eslint](https://img.shields.io/badge/-Eslint-05122A?style=flat&logo=eslint&logoColor=563D7C)&nbsp;
 ![Xampp](https://img.shields.io/badge/-xampp-05122A?style=flat&logo=xampp)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
