@@ -33,6 +33,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
+![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 </div>
