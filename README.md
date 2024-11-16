@@ -10,6 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)
 ![Expo app](https://img.shields.io/badge/-Expo_app-05122A?style=flat&logo=expo)&nbsp;
